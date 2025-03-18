@@ -25,7 +25,8 @@
   margin-top: 20px;
 }
 
-th, td {
+.table th,
+.table td {
   border: 1px solid white;
   padding: 8px;
 }
